@@ -4,6 +4,9 @@
 
 ---
 
+## 🗂️ Modelo Lógico
+![Modelo Lógico](BR_MODELO_JAVA_FINANÇAS/modelo_logico_png.png)
+
 ## 📋 Sobre o Projeto
 
 O **Projeto Java Finanças** é uma plataforma de gerenciamento financeiro pessoal desenvolvida em Java, que permite ao usuário organizar suas finanças, comparar opções bancárias e acompanhar suas metas financeiras de forma prática e intuitiva.
