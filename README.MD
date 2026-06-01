@@ -24,14 +24,6 @@ A plataforma foi desenvolvida para ser capaz de:
 
 ---
 
-## 🗂️ Modelo Lógico
-
-O modelo lógico do banco de dados foi desenvolvido utilizando a ferramenta **brModelo** e está disponível na pasta `/brmodelo`.
-
-![Modelo Lógico](brmodelo/modelo-logico.png)
-
----
-
 ## 🛠️ Metodologia
 
 Este projeto foi desenvolvido seguindo a metodologia ágil **SCRUM**, com:
