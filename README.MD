@@ -1,4 +1,4 @@
-# 💰 Projeto Java Finanças
+# financial-control
 
 > Projeto de modelagem de banco de dados para um sistema financeiro desenvolvido em Java, com metodologia SCRUM.
 
